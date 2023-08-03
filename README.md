@@ -1,6 +1,6 @@
 # hw2
 
-#Konu: C, Unix/Linux, Memory management, Pthreads
+Konu: C, Unix/Linux, Memory management, Pthreads
 
 Görev: Memory management simülasyonu yapmak istiyoruz. Bunun için bir adet server program
 (Scheduler) ve bir adet de istemci (User process) programı yazmanız gerekecektir. Scheduler tek
